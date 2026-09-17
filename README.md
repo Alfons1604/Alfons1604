@@ -1,2 +1,2 @@
 # Alfonso-C-rdenas
-My personal GitHub profile and portfolio.
+Mi perfil de GitHub y porfolio personal.
